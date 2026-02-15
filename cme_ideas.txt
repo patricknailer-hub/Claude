@@ -1,0 +1,5 @@
+- Newsletter: Top 10 GitHub repos of the month
+- Blog post: Why every developer needs a personal brand
+- Twitter thread: Lessons from 5 years of freelancing
+- Email series: 7-day intro to web development
+- Case study: How we scaled to 1M users on a budget
