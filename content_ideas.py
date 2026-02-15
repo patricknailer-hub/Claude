@@ -23,6 +23,13 @@ ideas = {
         "Email series: 7-day intro to web development",
         "Case study: How we scaled to 1M users on a budget",
     ],
+    "heygen_ideas.txt": [
+        "AI avatar product demo for SaaS landing page",
+        "Multilingual explainer video for global audience",
+        "Personalized sales outreach video at scale",
+        "AI spokesperson for weekly company updates",
+        "Training video series with custom digital presenter",
+    ],
 }
 
 # Create and write to each file
@@ -40,6 +47,7 @@ labels = {
     "tiktok_ideas.txt": "TIKTOK IDEAS",
     "youtube_ideas.txt": "YOUTUBE IDEAS",
     "cme_ideas.txt": "CME IDEAS",
+    "heygen_ideas.txt": "HEYGEN VIDEO IDEAS",
 }
 
 for filename, label in labels.items():
