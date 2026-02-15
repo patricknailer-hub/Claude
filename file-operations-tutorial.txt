@@ -1,0 +1,9 @@
+Hello! This is a file operations tutorial.
+
+Here are some things you can do with files:
+1. Create them
+2. Write content to them
+3. Read content from them
+4. List them in a directory
+
+This file was created to demonstrate basic file operations.
